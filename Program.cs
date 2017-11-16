@@ -10,7 +10,7 @@ namespace studentrecordscsv
         {
             while (true)
             {
-                //my name 
+                //my 
                 Console.WriteLine("Welcome to the student records");
                 Console.WriteLine("Select an Option");
                 Console.WriteLine("Press 1: To read a file");
