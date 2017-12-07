@@ -1,0 +1,7 @@
+C:\StudentRecords\CDStore\CDStore\bin\Debug\CDStore.exe.config
+C:\StudentRecords\CDStore\CDStore\bin\Debug\CDStore.exe
+C:\StudentRecords\CDStore\CDStore\bin\Debug\CDStore.pdb
+C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.csprojResolveAssemblyReference.cache
+C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.csproj.CoreCompileInputs.cache
+C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.exe
+C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.pdb
