@@ -5,3 +5,7 @@ C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.csprojResolveAssemblyReferen
 C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.csproj.CoreCompileInputs.cache
 C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.exe
 C:\StudentRecords\CDStore\CDStore\obj\Debug\CDStore.pdb
+C:\StudentRecords\CDStore\CDStore\bin\Debug\EntityFramework.dll
+C:\StudentRecords\CDStore\CDStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\StudentRecords\CDStore\CDStore\bin\Debug\EntityFramework.xml
+C:\StudentRecords\CDStore\CDStore\bin\Debug\EntityFramework.SqlServer.xml
